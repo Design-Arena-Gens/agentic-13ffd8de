@@ -1,0 +1,3 @@
+1. ✅ Inspect repository structure to determine existing project (if any) and requirements (Next.js setup, dependencies).
+2. ✅ Implement mobile-friendly web app with item selection UI, receipt preview, share/copy functionality.
+3. ✅ Run local build/test, deploy to Vercel, verify deployment.
